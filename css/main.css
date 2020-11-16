@@ -1,0 +1,26 @@
+/* Scss Document */
+header {
+  width: 100vw;
+  height: 100vh;
+  background-color: #F0EAFF; }
+
+.center_div {
+  width: 35%;
+  height: 80%;
+  padding: 1rem 1rem;
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  background-color: #FFFFFF;
+  box-shadow: 3px 3px 6px #00f; }
+  .center_div h1 {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 600;
+    text-decoration: underline; }
+  .center_div h3 {
+    text-align: center;
+    text-transform: capitalize;
+    margin-bottom: 1rem; }
+  .center_div h4 {
+    text-align: center;
+    text-transform: capitalize; }
